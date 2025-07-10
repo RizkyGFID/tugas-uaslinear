@@ -3,3 +3,5 @@ sympy
 numpy
 matplotlib
 scipy
+
+pip install streamlit pulp pandas
